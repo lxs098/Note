@@ -15,3 +15,7 @@
     * [数据查询](zh-cn/mysql/mysql_select.md)
     * [数据修改删除](zh-cn/mysql/mysql_insert.md)
     
+* [redis](/zh-cn/redis/)
+    * [字符串(Str)](zh-cn/redis/r1.md)
+    * [哈希(Hash)](zh-cn/redis/r2.md)
+    

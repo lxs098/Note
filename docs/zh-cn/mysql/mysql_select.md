@@ -186,3 +186,5 @@
     FROM t_book
     WHERE NOT EXISTS
     (SELECT * FROM t_bookType);
+    
+    
